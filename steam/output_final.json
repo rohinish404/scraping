@@ -1,0 +1,1892 @@
+[
+    {
+        "link": "https://store.steampowered.com/app/312670/Strange_Brigade/?snr=1_7_7_7000_150_1",
+        "name": "Strange Brigade",
+        "date": "27 Aug, 2018",
+        "actual_price": "₹1,099.00",
+        "discounted_price": "₹55.00",
+        "recent_reviews": "Mostly Positive",
+        "recent_reviews_num": "1,044",
+        "developer": "Rebellion"
+    },
+    {
+        "link": "https://store.steampowered.com/app/730/CounterStrike_2/?snr=1_7_7_7000_150_1",
+        "name": "Counter-Strike 2",
+        "date": "21 Aug, 2012",
+        "actual_price": null,
+        "discounted_price": null,
+        "recent_reviews": "Mixed",
+        "recent_reviews_num": "129,969",
+        "developer": "Valve"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1260320/Party_Animals/?snr=1_7_7_7000_150_1",
+        "name": "Party Animals",
+        "date": "20 Sep, 2023",
+        "actual_price": null,
+        "discounted_price": "₹1,124.00",
+        "recent_reviews": "Mostly Positive",
+        "recent_reviews_num": "6,913",
+        "developer": "Recreate Games"
+    },
+    {
+        "link": "https://store.steampowered.com/app/990080/Hogwarts_Legacy/?snr=1_7_7_7000_150_1",
+        "name": "Hogwarts Legacy",
+        "date": "10 Feb, 2023",
+        "actual_price": "₹3,999.00",
+        "discounted_price": "₹2,799.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "2,311",
+        "developer": "Avalanche Software"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1144200/Ready_or_Not/?snr=1_7_7_7000_150_1",
+        "name": "Ready or Not",
+        "date": "17 Dec, 2021",
+        "actual_price": null,
+        "discounted_price": "₹1,299.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "1,883",
+        "developer": "VOID Interactive"
+    },
+    {
+        "link": "https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege/?snr=1_7_7_7000_150_1",
+        "name": "Tom Clancy's Rainbow Six® Siege",
+        "date": "1 Dec, 2015",
+        "actual_price": null,
+        "discounted_price": "₹999.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "10,335",
+        "developer": "Ubisoft Montreal"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1063730/New_World/?snr=1_7_7_7000_150_1",
+        "name": "New World",
+        "date": "28 Sep, 2021",
+        "actual_price": null,
+        "discounted_price": "₹3,327.00",
+        "recent_reviews": "Mixed",
+        "recent_reviews_num": "5,479",
+        "developer": "Amazon Games"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1326470/Sons_Of_The_Forest/?snr=1_7_7_7000_150_1",
+        "name": "Sons Of The Forest",
+        "date": "23 Feb, 2023",
+        "actual_price": "₹1,300.00",
+        "discounted_price": "₹1,040.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "3,298",
+        "developer": "Endnight Games Ltd"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1222670/The_Sims_4/?snr=1_7_7_7000_150_1",
+        "name": "The Sims™ 4",
+        "date": "18 Jun, 2020",
+        "actual_price": null,
+        "discounted_price": null,
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "2,762",
+        "developer": "Maxis"
+    },
+    {
+        "link": "https://store.steampowered.com/app/236390/War_Thunder/?snr=1_7_7_7000_150_1",
+        "name": "War Thunder",
+        "date": "15 Aug, 2013",
+        "actual_price": null,
+        "discounted_price": null,
+        "recent_reviews": "Mostly Positive",
+        "recent_reviews_num": "8,085",
+        "developer": "Gaijin Entertainment"
+    },
+    {
+        "link": "https://store.steampowered.com/app/582010/Monster_Hunter_World/?snr=1_7_7_7000_150_1",
+        "name": "Monster Hunter: World",
+        "date": "9 Aug, 2018",
+        "actual_price": "₹2,497.00",
+        "discounted_price": "₹1,248.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "1,631",
+        "developer": "CAPCOM Co., Ltd."
+    },
+    {
+        "link": "https://store.steampowered.com/app/440/Team_Fortress_2/?snr=1_7_7_7000_150_1",
+        "name": "Team Fortress 2",
+        "date": "10 Oct, 2007",
+        "actual_price": null,
+        "discounted_price": null,
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "9,534",
+        "developer": "Valve"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1313140/Cult_of_the_Lamb/?snr=1_7_7_7000_150_1",
+        "name": "Cult of the Lamb",
+        "date": "11 Aug, 2022",
+        "actual_price": "₹899.00",
+        "discounted_price": "₹539.00",
+        "recent_reviews": "Overwhelmingly Positive",
+        "recent_reviews_num": "967",
+        "developer": "Massive Monster"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1085660/Destiny_2/?snr=1_7_7_7000_150_1",
+        "name": "Destiny 2",
+        "date": "1 Oct, 2019",
+        "actual_price": null,
+        "discounted_price": null,
+        "recent_reviews": "Mostly Positive",
+        "recent_reviews_num": "3,917",
+        "developer": "Bungie"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1446780/MONSTER_HUNTER_RISE/?snr=1_7_7_7000_150_1",
+        "name": "MONSTER HUNTER RISE",
+        "date": "12 Jan, 2022",
+        "actual_price": "₹2,399.00",
+        "discounted_price": "₹959.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "751",
+        "developer": "CAPCOM Co., Ltd."
+    },
+    {
+        "link": "https://store.steampowered.com/app/251570/7_Days_to_Die/?snr=1_7_7_7000_150_1",
+        "name": "7 Days to Die",
+        "date": "13 Dec, 2013",
+        "actual_price": "₹619.00",
+        "discounted_price": "₹148.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "2,235",
+        "developer": "The Fun Pimps"
+    },
+    {
+        "link": "https://store.steampowered.com/app/739630/Phasmophobia/?snr=1_7_7_7000_150_1",
+        "name": "Phasmophobia",
+        "date": "18 Sep, 2020",
+        "actual_price": "₹439.00",
+        "discounted_price": "₹351.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "9,180",
+        "developer": "Kinetic Games"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1449850/YuGiOh_Master_Duel/?snr=1_7_7_7000_150_1",
+        "name": "Yu-Gi-Oh! Master Duel",
+        "date": "18 Jan, 2022",
+        "actual_price": null,
+        "discounted_price": null,
+        "recent_reviews": "Mixed",
+        "recent_reviews_num": "950",
+        "developer": "KONAMI"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1426210/It_Takes_Two/?snr=1_7_7_7000_150_1",
+        "name": "It Takes Two",
+        "date": "25 Mar, 2021",
+        "actual_price": "₹2,199.00",
+        "discounted_price": "₹769.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "2,380",
+        "developer": "Hazelight"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1092790/Inscryption/?snr=1_7_7_7000_150_2",
+        "name": "Inscryption",
+        "date": "19 Oct, 2021",
+        "actual_price": "₹699.00",
+        "discounted_price": "₹349.00",
+        "recent_reviews": "Overwhelmingly Positive",
+        "recent_reviews_num": "1,496",
+        "developer": "Daniel Mullins Games"
+    },
+    {
+        "link": "https://store.steampowered.com/app/394360/Hearts_of_Iron_IV/?snr=1_7_7_7000_150_2",
+        "name": "Hearts of Iron IV",
+        "date": "6 Jun, 2016",
+        "actual_price": null,
+        "discounted_price": "₹1,600.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "4,308",
+        "developer": "Paradox Development Studio"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1248130/Farming_Simulator_22/?snr=1_7_7_7000_150_2",
+        "name": "Farming Simulator 22",
+        "date": "21 Nov, 2021",
+        "actual_price": null,
+        "discounted_price": "₹2,199.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "1,505",
+        "developer": "Giants Software"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1332010/Stray/?snr=1_7_7_7000_150_2",
+        "name": "Stray",
+        "date": "19 Jul, 2022",
+        "actual_price": "₹999.00",
+        "discounted_price": "₹749.00",
+        "recent_reviews": "Overwhelmingly Positive",
+        "recent_reviews_num": "1,182",
+        "developer": "BlueTwelve Studio"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1551360/Forza_Horizon_5/?snr=1_7_7_7000_150_2",
+        "name": "Forza Horizon 5",
+        "date": "8 Nov, 2021",
+        "actual_price": null,
+        "discounted_price": "₹3,499.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "2,933",
+        "developer": "Playground Games"
+    },
+    {
+        "link": "https://store.steampowered.com/app/913740/WORLD_OF_HORROR/?snr=1_7_7_7000_150_2",
+        "name": "WORLD OF HORROR",
+        "date": "19 Oct, 2023",
+        "actual_price": "₹880.00",
+        "discounted_price": "₹660.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "1,113",
+        "developer": "panstasz"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1237970/Titanfall_2/?snr=1_7_7_7000_150_2",
+        "name": "Titanfall® 2",
+        "date": "18 Jun, 2020",
+        "actual_price": "₹1,499.00",
+        "discounted_price": "₹224.00",
+        "recent_reviews": "Overwhelmingly Positive",
+        "recent_reviews_num": "5,349",
+        "developer": "Respawn Entertainment"
+    },
+    {
+        "link": "https://store.steampowered.com/app/552500/Warhammer_Vermintide_2/?snr=1_7_7_7000_150_2",
+        "name": "Warhammer: Vermintide 2",
+        "date": "8 Mar, 2018",
+        "actual_price": "₹1,300.00",
+        "discounted_price": "₹260.00",
+        "recent_reviews": "Mostly Positive",
+        "recent_reviews_num": "774",
+        "developer": "Fatshark"
+    },
+    {
+        "link": "https://store.steampowered.com/app/736820/Knights_of_Honor_II_Sovereign/?snr=1_7_7_7000_150_2",
+        "name": "Knights of Honor II: Sovereign",
+        "date": "6 Dec, 2022",
+        "actual_price": "₹1,800.00",
+        "discounted_price": "₹900.00",
+        "recent_reviews": "Mostly Positive",
+        "recent_reviews_num": "68",
+        "developer": "Black Sea Games"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1172620/Sea_of_Thieves_2023_Edition/?snr=1_7_7_7000_150_2",
+        "name": "Sea of Thieves 2023 Edition",
+        "date": "3 Jun, 2020",
+        "actual_price": null,
+        "discounted_price": "₹1,399.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "4,302",
+        "developer": "Rare Ltd"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1997040/MARVEL_SNAP/?snr=1_7_7_7000_150_3",
+        "name": "MARVEL SNAP",
+        "date": "22 Aug, 2023",
+        "actual_price": null,
+        "discounted_price": null,
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "908",
+        "developer": "Second Dinner Studios, Inc."
+    },
+    {
+        "link": "https://store.steampowered.com/app/105600/Terraria/?snr=1_7_7_7000_150_3",
+        "name": "Terraria",
+        "date": "16 May, 2011",
+        "actual_price": null,
+        "discounted_price": "₹480.00",
+        "recent_reviews": "Overwhelmingly Positive",
+        "recent_reviews_num": "12,090",
+        "developer": "Re-Logic"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1604030/V_Rising/?snr=1_7_7_7000_150_3",
+        "name": "V Rising",
+        "date": "17 May, 2022",
+        "actual_price": "₹529.00",
+        "discounted_price": "₹423.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "731",
+        "developer": "Stunlock Studios"
+    },
+    {
+        "link": "https://store.steampowered.com/app/304390/FOR_HONOR/?snr=1_7_7_7000_150_3",
+        "name": "FOR HONOR™",
+        "date": "13 Feb, 2017",
+        "actual_price": "₹749.00",
+        "discounted_price": "₹149.00",
+        "recent_reviews": "Mostly Positive",
+        "recent_reviews_num": "702",
+        "developer": "Ubisoft Montreal"
+    },
+    {
+        "link": "https://store.steampowered.com/app/281990/Stellaris/?snr=1_7_7_7000_150_3",
+        "name": "Stellaris",
+        "date": "9 May, 2016",
+        "actual_price": null,
+        "discounted_price": "₹1,600.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "746",
+        "developer": "Paradox Development Studio"
+    },
+    {
+        "link": "https://store.steampowered.com/app/2131680/METAL_GEAR__METAL_GEAR_2_Solid_Snake/?snr=1_7_7_7000_150_3",
+        "name": "METAL GEAR & METAL GEAR 2: Solid Snake",
+        "date": "24 Oct, 2023",
+        "actual_price": null,
+        "discounted_price": "₹1,664.00",
+        "recent_reviews": "Mostly Positive",
+        "recent_reviews_num": "91",
+        "developer": "KONAMI"
+    },
+    {
+        "link": "https://store.steampowered.com/app/952060/Resident_Evil_3/?snr=1_7_7_7000_150_3",
+        "name": "Resident Evil 3",
+        "date": "24 Jan, 2019",
+        "actual_price": "₹2,339.00",
+        "discounted_price": "₹584.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "563",
+        "developer": "CAPCOM Co., Ltd."
+    },
+    {
+        "link": "https://store.steampowered.com/app/444200/World_of_Tanks_Blitz/?snr=1_7_7_7000_150_3",
+        "name": "World of Tanks Blitz",
+        "date": "9 Nov, 2016",
+        "actual_price": null,
+        "discounted_price": null,
+        "recent_reviews": "Mostly Positive",
+        "recent_reviews_num": "1,144",
+        "developer": "Wargaming Group Limited"
+    },
+    {
+        "link": "https://store.steampowered.com/app/2285150/The_Front/?snr=1_7_7_7000_150_3",
+        "name": "The Front",
+        "date": "11 Oct, 2023",
+        "actual_price": null,
+        "discounted_price": "₹880.00",
+        "recent_reviews": "Mostly Positive",
+        "recent_reviews_num": "4,108",
+        "developer": "Samar Studio"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1868140/DAVE_THE_DIVER/?snr=1_7_7_7000_150_3",
+        "name": "DAVE THE DIVER",
+        "date": "28 Jun, 2023",
+        "actual_price": null,
+        "discounted_price": "₹880.00",
+        "recent_reviews": "Overwhelmingly Positive",
+        "recent_reviews_num": "2,217",
+        "developer": "MINTROCKET"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1158310/Crusader_Kings_III/?snr=1_7_7_7000_150_3",
+        "name": "Crusader Kings III",
+        "date": "1 Sep, 2020",
+        "actual_price": null,
+        "discounted_price": "₹2,000.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "594",
+        "developer": "Paradox Development Studio"
+    },
+    {
+        "link": "https://store.steampowered.com/app/414700/Outlast_2/?snr=1_7_7_7000_150_4",
+        "name": "Outlast 2",
+        "date": "24 Apr, 2017",
+        "actual_price": "₹1,300.00",
+        "discounted_price": "₹195.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "402",
+        "developer": "Red Barrels"
+    },
+    {
+        "link": "https://store.steampowered.com/app/371970/Barony/?snr=1_7_7_7000_150_4",
+        "name": "Barony",
+        "date": "23 Jun, 2015",
+        "actual_price": "₹880.00",
+        "discounted_price": "₹572.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "162",
+        "developer": "Turning Wheel LLC"
+    },
+    {
+        "link": "https://store.steampowered.com/app/848450/Subnautica_Below_Zero/?snr=1_7_7_7000_150_4",
+        "name": "Subnautica: Below Zero",
+        "date": "13 May, 2021",
+        "actual_price": "₹1,499.00",
+        "discounted_price": "₹749.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "583",
+        "developer": "Unknown Worlds Entertainment"
+    },
+    {
+        "link": "https://store.steampowered.com/app/920210/LEGO_Star_Wars_The_Skywalker_Saga/?snr=1_7_7_7000_150_4",
+        "name": "LEGO® Star Wars™: The Skywalker Saga",
+        "date": "5 Apr, 2022",
+        "actual_price": "₹2,499.00",
+        "discounted_price": "₹824.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "329",
+        "developer": "TT Games"
+    },
+    {
+        "link": "https://store.steampowered.com/app/892970/Valheim/?snr=1_7_7_7000_150_4",
+        "name": "Valheim",
+        "date": "2 Feb, 2021",
+        "actual_price": null,
+        "discounted_price": "₹529.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "2,705",
+        "developer": "Iron Gate AB"
+    },
+    {
+        "link": "https://store.steampowered.com/app/244210/Assetto_Corsa/?snr=1_7_7_7000_150_4",
+        "name": "Assetto Corsa",
+        "date": "19 Dec, 2014",
+        "actual_price": null,
+        "discounted_price": "₹880.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "1,550",
+        "developer": "Kunos Simulazioni"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1485590/ENDLESS_Dungeon/?snr=1_7_7_7000_150_4",
+        "name": "ENDLESS™ Dungeon",
+        "date": "19 Oct, 2023",
+        "actual_price": null,
+        "discounted_price": "₹1,830.00",
+        "recent_reviews": "Mixed",
+        "recent_reviews_num": "1,640",
+        "developer": "AMPLITUDE Studios"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1159830/Scene_Investigators/?snr=1_7_7_7000_150_4",
+        "name": "Scene Investigators",
+        "date": "24 Oct, 2023",
+        "actual_price": "₹969.00",
+        "discounted_price": "₹872.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "185",
+        "developer": "EQ Studios"
+    },
+    {
+        "link": "https://store.steampowered.com/app/2357570/Overwatch_2/?snr=1_7_7_7000_150_4",
+        "name": "Overwatch® 2",
+        "date": "10 Aug, 2023",
+        "actual_price": null,
+        "discounted_price": null,
+        "recent_reviews": "Mostly Negative",
+        "recent_reviews_num": "12,194",
+        "developer": "Blizzard Entertainment, Inc."
+    },
+    {
+        "link": "https://store.steampowered.com/app/1850570/DEATH_STRANDING_DIRECTORS_CUT/?snr=1_7_7_7000_150_4",
+        "name": "DEATH STRANDING DIRECTOR'S CUT",
+        "date": "30 Mar, 2022",
+        "actual_price": null,
+        "discounted_price": null,
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "367",
+        "developer": "KOJIMA PRODUCTIONS"
+    },
+    {
+        "link": "https://store.steampowered.com/app/2362300/Train_Sim_World_4/?snr=1_7_7_7000_150_4",
+        "name": "Train Sim World® 4",
+        "date": "26 Sep, 2023",
+        "actual_price": "₹2,000.00",
+        "discounted_price": "₹1,300.00",
+        "recent_reviews": "Mostly Positive",
+        "recent_reviews_num": "314",
+        "developer": "Dovetail Games"
+    },
+    {
+        "link": "https://store.steampowered.com/app/732690/FIVE_NIGHTS_AT_FREDDYS_HELP_WANTED/?snr=1_7_7_7000_150_5",
+        "name": "FIVE NIGHTS AT FREDDY'S: HELP WANTED",
+        "date": "28 May, 2019",
+        "actual_price": "₹699.00",
+        "discounted_price": "₹524.00",
+        "recent_reviews": "Overwhelmingly Positive",
+        "recent_reviews_num": "145",
+        "developer": "Steel Wool Studios"
+    },
+    {
+        "link": "https://store.steampowered.com/app/2183930/Expansion__Hearts_of_Iron_IV_Arms_Against_Tyranny/?snr=1_7_7_7000_150_4",
+        "name": "Expansion - Hearts of Iron IV: Arms Against Tyranny",
+        "date": "10 Oct, 2023",
+        "actual_price": null,
+        "discounted_price": "₹880.00",
+        "recent_reviews": "Mostly Positive",
+        "recent_reviews_num": "1,042",
+        "developer": "Paradox Development Studio"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1149460/ICARUS/?snr=1_7_7_7000_150_5",
+        "name": "ICARUS",
+        "date": "3 Dec, 2021",
+        "actual_price": null,
+        "discounted_price": "₹1,500.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "418",
+        "developer": "RocketWerkz"
+    },
+    {
+        "link": "https://store.steampowered.com/app/266410/iRacing/?snr=1_7_7_7000_150_5",
+        "name": "iRacing",
+        "date": "12 Jan, 2015",
+        "actual_price": null,
+        "discounted_price": "₹480.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "50",
+        "developer": "iRacing.com Motorsport Simulations"
+    },
+    {
+        "link": "https://store.steampowered.com/app/236850/Europa_Universalis_IV/?snr=1_7_7_7000_150_5",
+        "name": "Europa Universalis IV",
+        "date": "13 Aug, 2013",
+        "actual_price": "₹1,600.00",
+        "discounted_price": "₹480.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "420",
+        "developer": "Paradox Development Studio"
+    },
+    {
+        "link": "https://store.steampowered.com/app/477160/Human_Fall_Flat/?snr=1_7_7_7000_150_5",
+        "name": "Human Fall Flat",
+        "date": "22 Jul, 2016",
+        "actual_price": "₹529.00",
+        "discounted_price": "₹158.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "1,116",
+        "developer": "No Brakes Games"
+    },
+    {
+        "link": "https://store.steampowered.com/app/761890/Albion_Online/?snr=1_7_7_7000_150_5",
+        "name": "Albion Online",
+        "date": "16 May, 2018",
+        "actual_price": null,
+        "discounted_price": null,
+        "recent_reviews": "Mostly Positive",
+        "recent_reviews_num": "1,065",
+        "developer": "Sandbox Interactive GmbH"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1401590/Disney_Dreamlight_Valley/?snr=1_7_7_7000_150_5",
+        "name": "Disney Dreamlight Valley",
+        "date": "6 Sep, 2022",
+        "actual_price": null,
+        "discounted_price": "₹699.00",
+        "recent_reviews": "Mostly Positive",
+        "recent_reviews_num": "369",
+        "developer": "Gameloft"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1657630/Slime_Rancher_2/?snr=1_7_7_7000_150_5",
+        "name": "Slime Rancher 2",
+        "date": "22 Sep, 2022",
+        "actual_price": "₹2,099.00",
+        "discounted_price": "₹899.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "418",
+        "developer": "Monomi Park"
+    },
+    {
+        "link": "https://store.steampowered.com/app/945360/Among_Us/?snr=1_7_7_7000_150_5",
+        "name": "Among Us",
+        "date": "16 Nov, 2018",
+        "actual_price": "₹229.00",
+        "discounted_price": "₹137.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "2,945",
+        "developer": "Innersloth"
+    },
+    {
+        "link": "https://store.steampowered.com/app/2506160/Fears_to_Fathom__Ironbark_Lookout/?snr=1_7_7_7000_150_5",
+        "name": "Fears to Fathom - Ironbark Lookout",
+        "date": "20 Oct, 2023",
+        "actual_price": null,
+        "discounted_price": "₹300.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "760",
+        "developer": "Rayll Studios"
+    },
+    {
+        "link": "https://store.steampowered.com/app/835570/Conquerors_Blade/?snr=1_7_7_7000_150_5",
+        "name": "Conqueror's Blade",
+        "date": "5 Apr, 2020",
+        "actual_price": null,
+        "discounted_price": null,
+        "recent_reviews": "Mostly Positive",
+        "recent_reviews_num": "448",
+        "developer": "Booming Tech"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1274570/DEVOUR/?snr=1_7_7_7000_150_5",
+        "name": "DEVOUR",
+        "date": "28 Jan, 2021",
+        "actual_price": "₹250.00",
+        "discounted_price": "₹200.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "939",
+        "developer": "Straight Back Games"
+    },
+    {
+        "link": "https://store.steampowered.com/app/620980/Beat_Saber/?snr=1_7_7_7000_150_5",
+        "name": "Beat Saber",
+        "date": "21 May, 2019",
+        "actual_price": null,
+        "discounted_price": "₹699.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "329",
+        "developer": "Beat Games"
+    },
+    {
+        "link": "https://store.steampowered.com/app/632360/Risk_of_Rain_2/?snr=1_7_7_7000_150_5",
+        "name": "Risk of Rain 2",
+        "date": "11 Aug, 2020",
+        "actual_price": null,
+        "discounted_price": "₹719.00",
+        "recent_reviews": "Overwhelmingly Positive",
+        "recent_reviews_num": "1,374",
+        "developer": "Hopoo Games"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1150530/Wizard_with_a_Gun/?snr=1_7_7_7000_150_5",
+        "name": "Wizard with a Gun",
+        "date": "17 Oct, 2023",
+        "actual_price": null,
+        "discounted_price": "₹1,100.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "964",
+        "developer": "Galvanic Games"
+    },
+    {
+        "link": "https://store.steampowered.com/app/2378900/The_Coffin_of_Andy_and_Leyley/?snr=1_7_7_7000_150_5",
+        "name": "The Coffin of Andy and Leyley",
+        "date": "13 Oct, 2023",
+        "actual_price": null,
+        "discounted_price": "₹480.00",
+        "recent_reviews": "Overwhelmingly Positive",
+        "recent_reviews_num": "3,835",
+        "developer": "Nemlei"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1599600/PlateUp/?snr=1_7_7_7000_150_5",
+        "name": "PlateUp!",
+        "date": "4 Aug, 2022",
+        "actual_price": "₹880.00",
+        "discounted_price": "₹440.00",
+        "recent_reviews": "Overwhelmingly Positive",
+        "recent_reviews_num": "330",
+        "developer": "It's happening"
+    },
+    {
+        "link": "https://store.steampowered.com/app/2114740/Blasphemous_2/?snr=1_7_7_7000_150_5",
+        "name": "Blasphemous 2",
+        "date": "24 Aug, 2023",
+        "actual_price": "₹2,399.00",
+        "discounted_price": "₹1,919.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "367",
+        "developer": "The Game Kitchen"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1150440/Aliens_Dark_Descent/?snr=1_7_7_7000_150_5",
+        "name": "Aliens: Dark Descent",
+        "date": "19 Jun, 2023",
+        "actual_price": "₹1,899.00",
+        "discounted_price": "₹1,272.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "342",
+        "developer": "Tindalos Interactive"
+    },
+    {
+        "link": "https://store.steampowered.com/app/4000/Garrys_Mod/?snr=1_7_7_7000_150_5",
+        "name": "Garry's Mod",
+        "date": "29 Nov, 2006",
+        "actual_price": null,
+        "discounted_price": "₹399.00",
+        "recent_reviews": "Overwhelmingly Positive",
+        "recent_reviews_num": "7,822",
+        "developer": "Facepunch Studios"
+    },
+    {
+        "link": "https://store.steampowered.com/app/261550/Mount__Blade_II_Bannerlord/?snr=1_7_7_7000_150_5",
+        "name": "Mount & Blade II: Bannerlord",
+        "date": "25 Oct, 2022",
+        "actual_price": null,
+        "discounted_price": "₹2,499.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "1,017",
+        "developer": "TaleWorlds Entertainment"
+    },
+    {
+        "link": "https://store.steampowered.com/app/424840/Little_Nightmares/?snr=1_7_7_7000_150_5",
+        "name": "Little Nightmares",
+        "date": "27 Apr, 2017",
+        "actual_price": "₹799.00",
+        "discounted_price": "₹199.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "634",
+        "developer": "Tarsier Studios"
+    },
+    {
+        "link": "https://store.steampowered.com/app/2108330/F1_23/?snr=1_7_7_7000_150_5",
+        "name": "F1® 23",
+        "date": "15 Jun, 2023",
+        "actual_price": null,
+        "discounted_price": "₹3,499.00",
+        "recent_reviews": "Mostly Positive",
+        "recent_reviews_num": "524",
+        "developer": "Codemasters"
+    },
+    {
+        "link": "https://store.steampowered.com/app/899770/Last_Epoch/?snr=1_7_7_7000_150_5",
+        "name": "Last Epoch",
+        "date": "30 Apr, 2019",
+        "actual_price": null,
+        "discounted_price": "₹1,500.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "1,387",
+        "developer": "Eleventh Hour Games"
+    },
+    {
+        "link": "https://store.steampowered.com/app/2258500/CRYMACHINA/?snr=1_7_7_7000_150_5",
+        "name": "CRYMACHINA",
+        "date": "24 Oct, 2023",
+        "actual_price": null,
+        "discounted_price": "₹2,600.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "126",
+        "developer": "FURYU Corporation"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1088850/Marvels_Guardians_of_the_Galaxy/?snr=1_7_7_7000_150_5",
+        "name": "Marvel's Guardians of the Galaxy",
+        "date": "26 Oct, 2021",
+        "actual_price": "₹2,999.00",
+        "discounted_price": "₹750.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "245",
+        "developer": "Eidos-Montréal"
+    },
+    {
+        "link": "https://store.steampowered.com/app/2440510/Forza_Motorsport/?snr=1_7_7_7000_150_5",
+        "name": "Forza Motorsport",
+        "date": "9 Oct, 2023",
+        "actual_price": null,
+        "discounted_price": "₹4,999.00",
+        "recent_reviews": "Mostly Negative",
+        "recent_reviews_num": "3,299",
+        "developer": "Turn 10"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1987080/Inside_the_Backrooms/?snr=1_7_7_7000_150_5",
+        "name": "Inside the Backrooms",
+        "date": "20 Jun, 2022",
+        "actual_price": "₹399.00",
+        "discounted_price": "₹299.00",
+        "recent_reviews": "Mostly Positive",
+        "recent_reviews_num": "1,114",
+        "developer": "MrFatcat"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1964200/Phantom_Rose_2_Sapphire/?snr=1_7_7_7000_150_5",
+        "name": "Phantom Rose 2 Sapphire",
+        "date": "29 Oct, 2023",
+        "actual_price": "₹880.00",
+        "discounted_price": "₹792.00",
+        "recent_reviews": "Positive",
+        "recent_reviews_num": "21",
+        "developer": "makaroll"
+    },
+    {
+        "link": "https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/?snr=1_7_7_7000_150_5",
+        "name": "Sid Meier’s Civilization® VI",
+        "date": "20 Oct, 2016",
+        "actual_price": null,
+        "discounted_price": "₹2,499.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "3,005",
+        "developer": "Firaxis Games"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1129580/Medieval_Dynasty/?snr=1_7_7_7000_150_5",
+        "name": "Medieval Dynasty",
+        "date": "23 Sep, 2021",
+        "actual_price": "₹1,490.00",
+        "discounted_price": "₹968.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "279",
+        "developer": "Render Cube"
+    },
+    {
+        "link": "https://store.steampowered.com/app/668580/Atomic_Heart/?snr=1_7_7_7000_150_5",
+        "name": "Atomic Heart",
+        "date": "20 Feb, 2023",
+        "actual_price": "₹2,699.00",
+        "discounted_price": "₹1,781.00",
+        "recent_reviews": "Mostly Positive",
+        "recent_reviews_num": "290",
+        "developer": "Mundfish"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1940340/Darkest_Dungeon_II/?snr=1_7_7_7000_150_5",
+        "name": "Darkest Dungeon® II",
+        "date": "8 May, 2023",
+        "actual_price": "₹1,600.00",
+        "discounted_price": "₹1,200.00",
+        "recent_reviews": "Mostly Positive",
+        "recent_reviews_num": "343",
+        "developer": "Red Hook Studios"
+    },
+    {
+        "link": "https://store.steampowered.com/app/386360/SMITE/?snr=1_7_7_7000_150_5",
+        "name": "SMITE®",
+        "date": "8 Sep, 2015",
+        "actual_price": null,
+        "discounted_price": null,
+        "recent_reviews": "Mixed",
+        "recent_reviews_num": "699",
+        "developer": "Titan Forge Games"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1876890/Wandering_Sword/?snr=1_7_7_7000_150_5",
+        "name": "Wandering Sword",
+        "date": "14 Sep, 2023",
+        "actual_price": "₹1,100.00",
+        "discounted_price": "₹990.00",
+        "recent_reviews": "Overwhelmingly Positive",
+        "recent_reviews_num": "3,167",
+        "developer": "The Swordman Studio"
+    },
+    {
+        "link": "https://store.steampowered.com/app/376210/The_Isle/?snr=1_7_7_7000_150_5",
+        "name": "The Isle",
+        "date": "1 Dec, 2015",
+        "actual_price": "₹565.00",
+        "discounted_price": "₹378.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "1,205",
+        "developer": "Afterthought LLC"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1062810/Inkbound/?snr=1_7_7_7000_150_5",
+        "name": "Inkbound",
+        "date": "22 May, 2023",
+        "actual_price": "₹880.00",
+        "discounted_price": "₹660.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "217",
+        "developer": "Shiny Shoe"
+    },
+    {
+        "link": "https://store.steampowered.com/app/238320/Outlast/?snr=1_7_7_7000_150_5",
+        "name": "Outlast",
+        "date": "4 Sep, 2013",
+        "actual_price": "₹880.00",
+        "discounted_price": "₹132.00",
+        "recent_reviews": "Overwhelmingly Positive",
+        "recent_reviews_num": "829",
+        "developer": "Red Barrels"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1295920/The_Mortuary_Assistant/?snr=1_7_7_7000_150_5",
+        "name": "The Mortuary Assistant",
+        "date": "2 Aug, 2022",
+        "actual_price": "₹569.00",
+        "discounted_price": "₹381.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "177",
+        "developer": "DarkStone Digital"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1967430/Ghost_Trick_Phantom_Detective/?snr=1_7_7_7000_150_5",
+        "name": "Ghost Trick: Phantom Detective",
+        "date": "29 Jun, 2023",
+        "actual_price": "₹1,979.00",
+        "discounted_price": "₹1,306.00",
+        "recent_reviews": "Overwhelmingly Positive",
+        "recent_reviews_num": "106",
+        "developer": "CAPCOM Co., Ltd."
+    },
+    {
+        "link": "https://store.steampowered.com/app/671860/BattleBit_Remastered/?snr=1_7_7_7000_150_5",
+        "name": "BattleBit Remastered",
+        "date": "15 Jun, 2023",
+        "actual_price": null,
+        "discounted_price": "₹990.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "3,869",
+        "developer": "SgtOkiDoki"
+    },
+    {
+        "link": "https://store.steampowered.com/app/427520/Factorio/?snr=1_7_7_7000_150_4",
+        "name": "Factorio",
+        "date": "14 Aug, 2020",
+        "actual_price": null,
+        "discounted_price": "₹1,500.00",
+        "recent_reviews": "Overwhelmingly Positive",
+        "recent_reviews_num": "1,248",
+        "developer": "Wube Software LTD."
+    },
+    {
+        "link": "https://store.steampowered.com/app/1846380/Need_for_Speed_Unbound/?snr=1_7_7_7000_150_5",
+        "name": "Need for Speed™ Unbound",
+        "date": "1 Dec, 2022",
+        "actual_price": "₹3,499.00",
+        "discounted_price": "₹1,049.00",
+        "recent_reviews": "Mixed",
+        "recent_reviews_num": "446",
+        "developer": "Criterion Games"
+    },
+    {
+        "link": "https://store.steampowered.com/app/581320/Insurgency_Sandstorm/?snr=1_7_7_7000_150_5",
+        "name": "Insurgency: Sandstorm",
+        "date": "12 Dec, 2018",
+        "actual_price": "₹1,399.00",
+        "discounted_price": "₹461.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "844",
+        "developer": "New World Interactive"
+    },
+    {
+        "link": "https://store.steampowered.com/app/646570/Slay_the_Spire/?snr=1_7_7_7000_150_4",
+        "name": "Slay the Spire",
+        "date": "23 Jan, 2019",
+        "actual_price": "₹1,100.00",
+        "discounted_price": "₹374.00",
+        "recent_reviews": "Overwhelmingly Positive",
+        "recent_reviews_num": "1,530",
+        "developer": "Mega Crit Games"
+    },
+    {
+        "link": "https://store.steampowered.com/app/2141910/Magic_The_Gathering_Arena/?snr=1_7_7_7000_150_4",
+        "name": "Magic: The Gathering Arena",
+        "date": "23 May, 2023",
+        "actual_price": null,
+        "discounted_price": null,
+        "recent_reviews": "Mixed",
+        "recent_reviews_num": "678",
+        "developer": "Wizards of the Coast LLC"
+    },
+    {
+        "link": "https://store.steampowered.com/app/699130/World_War_Z/?snr=1_7_7_7000_150_4",
+        "name": "World War Z",
+        "date": "21 Sep, 2021",
+        "actual_price": "₹1,499.00",
+        "discounted_price": "₹899.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "252",
+        "developer": "Saber Interactive Inc"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1256670/Library_Of_Ruina/?snr=1_7_7_7000_150_4",
+        "name": "Library Of Ruina",
+        "date": "10 Aug, 2021",
+        "actual_price": "₹699.00",
+        "discounted_price": "₹237.00",
+        "recent_reviews": "Overwhelmingly Positive",
+        "recent_reviews_num": "437",
+        "developer": "ProjectMoon"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1209460/Euro_Truck_Simulator_2__Iberia/?snr=1_7_7_7000_150_4",
+        "name": "Euro Truck Simulator 2 - Iberia",
+        "date": "8 Apr, 2021",
+        "actual_price": "₹850.00",
+        "discounted_price": "₹425.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "31",
+        "developer": "SCS Software"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1372150/Fish_Game/?snr=1_7_7_7000_150_4",
+        "name": "Fish Game",
+        "date": "26 Oct, 2023",
+        "actual_price": "₹1,100.00",
+        "discounted_price": "₹825.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "67",
+        "developer": "A Shell in the Pit Games"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1432860/Sun_Haven/?snr=1_7_7_7000_150_4",
+        "name": "Sun Haven",
+        "date": "10 Mar, 2023",
+        "actual_price": "₹569.00",
+        "discounted_price": "₹398.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "434",
+        "developer": "Pixel Sprout Studios"
+    },
+    {
+        "link": "https://store.steampowered.com/app/291550/Brawlhalla/?snr=1_7_7_7000_150_4",
+        "name": "Brawlhalla",
+        "date": "17 Oct, 2017",
+        "actual_price": null,
+        "discounted_price": null,
+        "recent_reviews": "Mostly Positive",
+        "recent_reviews_num": "4,150",
+        "developer": "Blue Mammoth Games"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1222700/A_Way_Out/?snr=1_7_7_7000_150_4",
+        "name": "A Way Out",
+        "date": "18 Jun, 2020",
+        "actual_price": "₹1,499.00",
+        "discounted_price": "₹299.00",
+        "recent_reviews": "Mostly Positive",
+        "recent_reviews_num": "622",
+        "developer": "Hazelight"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1658150/Moonstone_Island/?snr=1_7_7_7000_150_4",
+        "name": "Moonstone Island",
+        "date": "20 Sep, 2023",
+        "actual_price": "₹880.00",
+        "discounted_price": "₹704.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "425",
+        "developer": "Studio Supersoft"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1284210/Guild_Wars_2/?snr=1_7_7_7000_150_4",
+        "name": "Guild Wars 2",
+        "date": "23 Aug, 2022",
+        "actual_price": null,
+        "discounted_price": null,
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "456",
+        "developer": "ArenaNet®"
+    },
+    {
+        "link": "https://store.steampowered.com/app/740130/Tales_of_Arise/?snr=1_7_7_7000_150_4",
+        "name": "Tales of Arise",
+        "date": "9 Sep, 2021",
+        "actual_price": null,
+        "discounted_price": "₹2,399.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "156",
+        "developer": "Bandai Namco Studios Inc."
+    },
+    {
+        "link": "https://store.steampowered.com/app/319510/Five_Nights_at_Freddys/?snr=1_7_7_7000_150_4",
+        "name": "Five Nights at Freddy's",
+        "date": "19 Aug, 2014",
+        "actual_price": null,
+        "discounted_price": "₹199.00",
+        "recent_reviews": "Overwhelmingly Positive",
+        "recent_reviews_num": "860",
+        "developer": "Scott Cawthon"
+    },
+    {
+        "link": "https://store.steampowered.com/app/262060/Darkest_Dungeon/?snr=1_7_7_7000_150_4",
+        "name": "Darkest Dungeon®",
+        "date": "19 Jan, 2016",
+        "actual_price": "₹1,100.00",
+        "discounted_price": "₹220.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "512",
+        "developer": "Red Hook Studios"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1466860/Age_of_Empires_IV_Anniversary_Edition/?snr=1_7_7_7000_150_4",
+        "name": "Age of Empires IV: Anniversary Edition",
+        "date": "28 Oct, 2021",
+        "actual_price": null,
+        "discounted_price": "₹1,299.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "787",
+        "developer": "Relic Entertainment"
+    },
+    {
+        "link": "https://store.steampowered.com/app/2080690/Sunkenland/?snr=1_7_7_7000_150_4",
+        "name": "Sunkenland",
+        "date": "25 Aug, 2023",
+        "actual_price": null,
+        "discounted_price": "₹880.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "1,752",
+        "developer": "Vector3 Studio"
+    },
+    {
+        "link": "https://store.steampowered.com/app/960090/Bloons_TD_6/?snr=1_7_7_7000_150_4",
+        "name": "Bloons TD 6",
+        "date": "17 Dec, 2018",
+        "actual_price": "₹439.00",
+        "discounted_price": "₹131.00",
+        "recent_reviews": "Overwhelmingly Positive",
+        "recent_reviews_num": "4,377",
+        "developer": "Ninja Kiwi"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1262350/SIGNALIS/?snr=1_7_7_7000_150_4",
+        "name": "SIGNALIS",
+        "date": "27 Oct, 2022",
+        "actual_price": "₹739.00",
+        "discounted_price": "₹591.00",
+        "recent_reviews": "Overwhelmingly Positive",
+        "recent_reviews_num": "549",
+        "developer": "rose-engine"
+    },
+    {
+        "link": "https://store.steampowered.com/app/219990/Grim_Dawn/?snr=1_7_7_7000_150_4",
+        "name": "Grim Dawn",
+        "date": "25 Feb, 2016",
+        "actual_price": "₹569.00",
+        "discounted_price": "₹227.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "436",
+        "developer": "Crate Entertainment"
+    },
+    {
+        "link": "https://store.steampowered.com/app/568220/Lobotomy_Corporation__Monster_Management_Simulation/?snr=1_7_7_7000_150_4",
+        "name": "Lobotomy Corporation | Monster Management Simulation",
+        "date": "9 Apr, 2018",
+        "actual_price": "₹569.00",
+        "discounted_price": "₹193.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "533",
+        "developer": "ProjectMoon"
+    },
+    {
+        "link": "https://store.steampowered.com/app/238960/Path_of_Exile/?snr=1_7_7_7000_150_4",
+        "name": "Path of Exile",
+        "date": "23 Oct, 2013",
+        "actual_price": null,
+        "discounted_price": null,
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "1,274",
+        "developer": "Grinding Gear Games"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1433140/The_Texas_Chain_Saw_Massacre/?snr=1_7_7_7000_150_4",
+        "name": "The Texas Chain Saw Massacre",
+        "date": "18 Aug, 2023",
+        "actual_price": "₹1,600.00",
+        "discounted_price": "₹1,120.00",
+        "recent_reviews": "Mixed",
+        "recent_reviews_num": "1,065",
+        "developer": "Sumo Digital"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1142710/Total_War_WARHAMMER_III/?snr=1_7_7_7000_150_4",
+        "name": "Total War: WARHAMMER III",
+        "date": "16 Feb, 2022",
+        "actual_price": null,
+        "discounted_price": "₹4,499.00",
+        "recent_reviews": "Mostly Negative",
+        "recent_reviews_num": "1,508",
+        "developer": "CREATIVE ASSEMBLY"
+    },
+    {
+        "link": "https://store.steampowered.com/app/860510/Little_Nightmares_II/?snr=1_7_7_7000_150_4",
+        "name": "Little Nightmares II",
+        "date": "10 Feb, 2021",
+        "actual_price": "₹1,199.00",
+        "discounted_price": "₹395.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "643",
+        "developer": "Tarsier Studios"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1286830/STAR_WARS_The_Old_Republic/?snr=1_7_7_7000_150_4",
+        "name": "STAR WARS™: The Old Republic™",
+        "date": "21 Jul, 2020",
+        "actual_price": null,
+        "discounted_price": null,
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "759",
+        "developer": "Broadsword"
+    },
+    {
+        "link": "https://store.steampowered.com/app/284160/BeamNGdrive/?snr=1_7_7_7000_150_3",
+        "name": "BeamNG.drive",
+        "date": "29 May, 2015",
+        "actual_price": null,
+        "discounted_price": "₹569.00",
+        "recent_reviews": "Overwhelmingly Positive",
+        "recent_reviews_num": "4,997",
+        "developer": "BeamNG"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1172380/STAR_WARS_Jedi_Fallen_Order/?snr=1_7_7_7000_150_3",
+        "name": "STAR WARS Jedi: Fallen Order™",
+        "date": "14 Nov, 2019",
+        "actual_price": "₹2,199.00",
+        "discounted_price": "₹549.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "721",
+        "developer": "Respawn Entertainment"
+    },
+    {
+        "link": "https://store.steampowered.com/app/255710/Cities_Skylines/?snr=1_7_7_7000_150_3",
+        "name": "Cities: Skylines",
+        "date": "10 Mar, 2015",
+        "actual_price": null,
+        "discounted_price": "₹1,300.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "1,989",
+        "developer": "Colossal Order Ltd."
+    },
+    {
+        "link": "https://store.steampowered.com/app/552990/World_of_Warships/?snr=1_7_7_7000_150_3",
+        "name": "World of Warships",
+        "date": "15 Nov, 2017",
+        "actual_price": null,
+        "discounted_price": null,
+        "recent_reviews": "Mixed",
+        "recent_reviews_num": "958",
+        "developer": "Wargaming Group Limited"
+    },
+    {
+        "link": "https://store.steampowered.com/app/648800/Raft/?snr=1_7_7_7000_150_3",
+        "name": "Raft",
+        "date": "20 Jun, 2022",
+        "actual_price": null,
+        "discounted_price": "₹565.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "2,873",
+        "developer": "Redbeet Interactive"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1517290/Battlefield_2042/?snr=1_7_7_7000_150_3",
+        "name": "Battlefield™ 2042",
+        "date": "19 Nov, 2021",
+        "actual_price": null,
+        "discounted_price": "₹2,999.00",
+        "recent_reviews": "Mixed",
+        "recent_reviews_num": "16,493",
+        "developer": "DICE"
+    },
+    {
+        "link": "https://store.steampowered.com/app/872670/SCP_5K/?snr=1_7_7_7000_150_3",
+        "name": "SCP: 5K",
+        "date": "22 Feb, 2022",
+        "actual_price": "₹880.00",
+        "discounted_price": "₹660.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "303",
+        "developer": "Affray Interactive"
+    },
+    {
+        "link": "https://store.steampowered.com/app/747660/Five_Nights_at_Freddys_Security_Breach/?snr=1_7_7_7000_150_3",
+        "name": "Five Nights at Freddy's: Security Breach",
+        "date": "16 Dec, 2021",
+        "actual_price": "₹899.00",
+        "discounted_price": "₹674.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "689",
+        "developer": "Steel Wool Studios"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1240440/Halo_Infinite/?snr=1_7_7_7000_150_3",
+        "name": "Halo Infinite",
+        "date": "15 Nov, 2021",
+        "actual_price": null,
+        "discounted_price": null,
+        "recent_reviews": "Mixed",
+        "recent_reviews_num": "2,113",
+        "developer": "343 Industries"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1465360/SnowRunner/?snr=1_7_7_7000_150_3",
+        "name": "SnowRunner",
+        "date": "17 May, 2021",
+        "actual_price": "₹1,399.00",
+        "discounted_price": "₹699.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "607",
+        "developer": "Saber Interactive"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1562430/DREDGE/?snr=1_7_7_7000_150_3",
+        "name": "DREDGE",
+        "date": "30 Mar, 2023",
+        "actual_price": "₹1,999.00",
+        "discounted_price": "₹1,499.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "516",
+        "developer": "Black Salt Games"
+    },
+    {
+        "link": "https://store.steampowered.com/app/294100/RimWorld/?snr=1_7_7_7000_150_3",
+        "name": "RimWorld",
+        "date": "17 Oct, 2018",
+        "actual_price": null,
+        "discounted_price": "₹1,099.00",
+        "recent_reviews": "Overwhelmingly Positive",
+        "recent_reviews_num": "1,545",
+        "developer": "Ludeon Studios"
+    },
+    {
+        "link": "https://store.steampowered.com/app/108710/Alan_Wake/?snr=1_7_7_7000_150_3",
+        "name": "Alan Wake",
+        "date": "16 Feb, 2012",
+        "actual_price": "₹569.00",
+        "discounted_price": "₹113.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "422",
+        "developer": "Remedy Entertainment"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1364780/Street_Fighter_6/?snr=1_7_7_7000_150_3",
+        "name": "Street Fighter™ 6",
+        "date": "1 Jun, 2023",
+        "actual_price": null,
+        "discounted_price": "₹3,999.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "892",
+        "developer": "CAPCOM Co., Ltd."
+    },
+    {
+        "link": "https://store.steampowered.com/app/223750/DCS_World_Steam_Edition/?snr=1_7_7_7000_150_3",
+        "name": "DCS World Steam Edition",
+        "date": "2 Aug, 2013",
+        "actual_price": null,
+        "discounted_price": null,
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "391",
+        "developer": "Eagle Dynamics SA"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1665460/eFootball_2024/?snr=1_7_7_7000_150_3",
+        "name": "eFootball™ 2024",
+        "date": "29 Sep, 2021",
+        "actual_price": null,
+        "discounted_price": null,
+        "recent_reviews": "Mixed",
+        "recent_reviews_num": "2,276",
+        "developer": "KONAMI"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1250410/Microsoft_Flight_Simulator_40th_Anniversary_Edition/?snr=1_7_7_7000_150_3",
+        "name": "Microsoft Flight Simulator 40th Anniversary Edition",
+        "date": "17 Aug, 2020",
+        "actual_price": null,
+        "discounted_price": "₹3,999.00",
+        "recent_reviews": "Mostly Positive",
+        "recent_reviews_num": "749",
+        "developer": "Asobo Studio"
+    },
+    {
+        "link": "https://store.steampowered.com/app/753640/Outer_Wilds/?snr=1_7_7_7000_150_3",
+        "name": "Outer Wilds",
+        "date": "18 Jun, 2020",
+        "actual_price": "₹969.00",
+        "discounted_price": "₹581.00",
+        "recent_reviews": "Overwhelmingly Positive",
+        "recent_reviews_num": "857",
+        "developer": "Mobius Digital"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1971870/Mortal_Kombat_1/?snr=1_7_7_7000_150_3",
+        "name": "Mortal Kombat 1",
+        "date": "19 Sep, 2023",
+        "actual_price": null,
+        "discounted_price": "₹4,499.00",
+        "recent_reviews": "Mostly Positive",
+        "recent_reviews_num": "3,360",
+        "developer": "NetherRealm Studios"
+    },
+    {
+        "link": "https://store.steampowered.com/app/413150/Stardew_Valley/?snr=1_7_7_7000_150_3",
+        "name": "Stardew Valley",
+        "date": "26 Feb, 2016",
+        "actual_price": null,
+        "discounted_price": "₹479.00",
+        "recent_reviews": "Overwhelmingly Positive",
+        "recent_reviews_num": "6,879",
+        "developer": "ConcernedApe"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1501750/Lords_of_the_Fallen/?snr=1_7_7_7000_150_3",
+        "name": "Lords of the Fallen",
+        "date": "13 Oct, 2023",
+        "actual_price": null,
+        "discounted_price": "₹2,999.00",
+        "recent_reviews": "Mixed",
+        "recent_reviews_num": "14,292",
+        "developer": "HEXWORKS"
+    },
+    {
+        "link": "https://store.steampowered.com/app/805550/Assetto_Corsa_Competizione/?snr=1_7_7_7000_150_3",
+        "name": "Assetto Corsa Competizione",
+        "date": "29 May, 2019",
+        "actual_price": "₹2,799.00",
+        "discounted_price": "₹839.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "299",
+        "developer": "Kunos Simulazioni"
+    },
+    {
+        "link": "https://store.steampowered.com/app/2140330/Madden_NFL_24/?snr=1_7_7_7000_150_3",
+        "name": "Madden NFL 24",
+        "date": "17 Aug, 2023",
+        "actual_price": "₹3,499.00",
+        "discounted_price": "₹2,274.00",
+        "recent_reviews": "Mixed",
+        "recent_reviews_num": "670",
+        "developer": "Tiburon"
+    },
+    {
+        "link": "https://store.steampowered.com/app/346110/ARK_Survival_Evolved/?snr=1_7_7_7000_150_3",
+        "name": "ARK: Survival Evolved",
+        "date": "27 Aug, 2017",
+        "actual_price": null,
+        "discounted_price": "₹690.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "4,508",
+        "developer": "Studio Wildcard"
+    },
+    {
+        "link": "https://store.steampowered.com/app/534380/Dying_Light_2_Stay_Human/?snr=1_7_7_7000_150_3",
+        "name": "Dying Light 2 Stay Human",
+        "date": "3 Feb, 2022",
+        "actual_price": "₹2,999.00",
+        "discounted_price": "₹1,499.00",
+        "recent_reviews": "Mostly Positive",
+        "recent_reviews_num": "1,172",
+        "developer": "Techland"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1929610/Demonologist/?snr=1_7_7_7000_150_3",
+        "name": "Demonologist",
+        "date": "25 Sep, 2023",
+        "actual_price": "₹819.00",
+        "discounted_price": "₹573.00",
+        "recent_reviews": "Mostly Positive",
+        "recent_reviews_num": "757",
+        "developer": "Clock Wizard Games"
+    },
+    {
+        "link": "https://store.steampowered.com/app/264710/Subnautica/?snr=1_7_7_7000_150_2",
+        "name": "Subnautica",
+        "date": "23 Jan, 2018",
+        "actual_price": "₹1,499.00",
+        "discounted_price": "₹749.00",
+        "recent_reviews": "Overwhelmingly Positive",
+        "recent_reviews_num": "2,207",
+        "developer": "Unknown Worlds Entertainment"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1049590/Eternal_Return/?snr=1_7_7_7000_150_2",
+        "name": "Eternal Return",
+        "date": "19 Jul, 2023",
+        "actual_price": null,
+        "discounted_price": null,
+        "recent_reviews": "Mostly Positive",
+        "recent_reviews_num": "1,191",
+        "developer": "Nimble Neuron"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1989270/Slay_the_Princess/?snr=1_7_7_7000_150_2",
+        "name": "Slay the Princess",
+        "date": "23 Oct, 2023",
+        "actual_price": "₹810.00",
+        "discounted_price": "₹729.00",
+        "recent_reviews": "Overwhelmingly Positive",
+        "recent_reviews_num": "2,019",
+        "developer": "Black Tabby Games"
+    },
+    {
+        "link": "https://store.steampowered.com/app/2497900/DONT_SCREAM/?snr=1_7_7_7000_150_2",
+        "name": "DON'T SCREAM",
+        "date": "27 Oct, 2023",
+        "actual_price": "₹480.00",
+        "discounted_price": "₹432.00",
+        "recent_reviews": "Mixed",
+        "recent_reviews_num": "1,383",
+        "developer": "Joure & Joe"
+    },
+    {
+        "link": "https://store.steampowered.com/app/2487480/New_World_Rise_of_the_Angry_Earth/?snr=1_7_7_7000_150_2",
+        "name": "New World: Rise of the Angry Earth",
+        "date": "3 Oct, 2023",
+        "actual_price": null,
+        "discounted_price": "₹1,300.00",
+        "recent_reviews": "Mixed",
+        "recent_reviews_num": "1,052",
+        "developer": "Amazon Games"
+    },
+    {
+        "link": "https://store.steampowered.com/app/322330/Dont_Starve_Together/?snr=1_7_7_7000_150_2",
+        "name": "Don't Starve Together",
+        "date": "21 Apr, 2016",
+        "actual_price": "₹459.00",
+        "discounted_price": "₹156.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "3,900",
+        "developer": "Klei Entertainment"
+    },
+    {
+        "link": "https://store.steampowered.com/app/813780/Age_of_Empires_II_Definitive_Edition/?snr=1_7_7_7000_150_2",
+        "name": "Age of Empires II: Definitive Edition",
+        "date": "14 Nov, 2019",
+        "actual_price": null,
+        "discounted_price": "₹529.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "1,258",
+        "developer": "Forgotten Empires"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1574580/Strange_Horticulture/?snr=1_7_7_7000_150_2",
+        "name": "Strange Horticulture",
+        "date": "21 Jan, 2022",
+        "actual_price": "₹690.00",
+        "discounted_price": "₹345.00",
+        "recent_reviews": "Overwhelmingly Positive",
+        "recent_reviews_num": "148",
+        "developer": "Bad Viking"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1145360/Hades/?snr=1_7_7_7000_150_2",
+        "name": "Hades",
+        "date": "17 Sep, 2020",
+        "actual_price": "₹1,100.00",
+        "discounted_price": "₹550.00",
+        "recent_reviews": "Overwhelmingly Positive",
+        "recent_reviews_num": "1,600",
+        "developer": "Supergiant Games"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1222680/Need_for_Speed_Heat/?snr=1_7_7_7000_150_2",
+        "name": "Need for Speed™ Heat",
+        "date": "4 Jun, 2020",
+        "actual_price": "₹3,499.00",
+        "discounted_price": "₹349.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "1,549",
+        "developer": "Ghost Games"
+    },
+    {
+        "link": "https://store.steampowered.com/app/270880/American_Truck_Simulator/?snr=1_7_7_7000_150_2",
+        "name": "American Truck Simulator",
+        "date": "2 Feb, 2016",
+        "actual_price": "₹920.00",
+        "discounted_price": "₹230.00",
+        "recent_reviews": "Overwhelmingly Positive",
+        "recent_reviews_num": "1,471",
+        "developer": "SCS Software"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1774580/STAR_WARS_Jedi_Survivor/?snr=1_7_7_7000_150_2",
+        "name": "STAR WARS Jedi: Survivor™",
+        "date": "27 Apr, 2023",
+        "actual_price": "₹3,499.00",
+        "discounted_price": "₹2,274.00",
+        "recent_reviews": "Mixed",
+        "recent_reviews_num": "1,168",
+        "developer": "Respawn"
+    },
+    {
+        "link": "https://store.steampowered.com/app/412020/Metro_Exodus/?snr=1_7_7_7000_150_2",
+        "name": "Metro Exodus",
+        "date": "14 Feb, 2020",
+        "actual_price": "₹2,250.00",
+        "discounted_price": "₹450.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "798",
+        "developer": "4A Games"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1627720/Lies_of_P/?snr=1_7_7_7000_150_2",
+        "name": "Lies of P",
+        "date": "18 Sep, 2023",
+        "actual_price": null,
+        "discounted_price": "₹3,700.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "5,511",
+        "developer": "NEOWIZ"
+    },
+    {
+        "link": "https://store.steampowered.com/app/244850/Space_Engineers/?snr=1_7_7_7000_150_2",
+        "name": "Space Engineers",
+        "date": "28 Feb, 2019",
+        "actual_price": "₹880.00",
+        "discounted_price": "₹220.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "489",
+        "developer": "Keen Software House"
+    },
+    {
+        "link": "https://store.steampowered.com/app/431960/Wallpaper_Engine/?snr=1_7_7_7000_150_2",
+        "name": "Wallpaper Engine",
+        "date": "Nov 2018",
+        "actual_price": null,
+        "discounted_price": "₹229.00",
+        "recent_reviews": "Overwhelmingly Positive",
+        "recent_reviews_num": "11,643",
+        "developer": "Wallpaper Engine Team"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1966720/Lethal_Company/?snr=1_7_7_7000_150_2",
+        "name": "Lethal Company",
+        "date": "23 Oct, 2023",
+        "actual_price": null,
+        "discounted_price": "₹480.00",
+        "recent_reviews": "Overwhelmingly Positive",
+        "recent_reviews_num": "968",
+        "developer": "Zeekerss"
+    },
+    {
+        "link": "https://store.steampowered.com/app/2338770/NBA_2K24/?snr=1_7_7_7000_150_2",
+        "name": "NBA 2K24",
+        "date": "7 Sep, 2023",
+        "actual_price": null,
+        "discounted_price": "₹3,299.00",
+        "recent_reviews": "Mostly Negative",
+        "recent_reviews_num": "1,544",
+        "developer": "Visual Concepts"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1943950/Escape_the_Backrooms/?snr=1_7_7_7000_150_2",
+        "name": "Escape the Backrooms",
+        "date": "11 Aug, 2022",
+        "actual_price": "₹349.00",
+        "discounted_price": "₹279.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "3,023",
+        "developer": "Fancy Games"
+    },
+    {
+        "link": "https://store.steampowered.com/app/703080/Planet_Zoo/?snr=1_7_7_7000_150_2",
+        "name": "Planet Zoo",
+        "date": "5 Nov, 2019",
+        "actual_price": "₹2,149.00",
+        "discounted_price": "₹644.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "598",
+        "developer": "Frontier Developments"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1693980/Dead_Space/?snr=1_7_7_7000_150_2",
+        "name": "Dead Space",
+        "date": "27 Jan, 2023",
+        "actual_price": "₹2,999.00",
+        "discounted_price": "₹1,799.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "591",
+        "developer": "Motive"
+    },
+    {
+        "link": "https://store.steampowered.com/app/2383990/Ghostbusters_Spirits_Unleashed_Ecto_Edition/?snr=1_7_7_7000_150_2",
+        "name": "Ghostbusters: Spirits Unleashed Ecto Edition",
+        "date": "19 Oct, 2023",
+        "actual_price": "₹880.00",
+        "discounted_price": "₹660.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "174",
+        "developer": "IllFonic"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1361210/Warhammer_40000_Darktide/?snr=1_7_7_7000_150_2",
+        "name": "Warhammer 40,000: Darktide",
+        "date": "30 Nov, 2022",
+        "actual_price": null,
+        "discounted_price": "₹2,199.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "4,102",
+        "developer": "Fatshark"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1118010/Monster_Hunter_World_Iceborne/?snr=1_7_7_7000_150_2",
+        "name": "Monster Hunter World: Iceborne",
+        "date": "9 Jan, 2020",
+        "actual_price": "₹2,999.00",
+        "discounted_price": "₹1,499.00",
+        "recent_reviews": "Mostly Positive",
+        "recent_reviews_num": "51",
+        "developer": "CAPCOM Co., Ltd."
+    },
+    {
+        "link": "https://store.steampowered.com/app/2004210/Euro_Truck_Simulator_2__West_Balkans/?snr=1_7_7_7000_150_2",
+        "name": "Euro Truck Simulator 2 - West Balkans",
+        "date": "19 Oct, 2023",
+        "actual_price": null,
+        "discounted_price": "₹850.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "962",
+        "developer": "SCS Software"
+    },
+    {
+        "link": "https://store.steampowered.com/app/505460/Foxhole/?snr=1_7_7_7000_150_2",
+        "name": "Foxhole",
+        "date": "28 Sep, 2022",
+        "actual_price": "₹699.00",
+        "discounted_price": "₹468.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "667",
+        "developer": "Siege Camp"
+    },
+    {
+        "link": "https://store.steampowered.com/app/367520/Hollow_Knight/?snr=1_7_7_7000_150_2",
+        "name": "Hollow Knight",
+        "date": "24 Feb, 2017",
+        "actual_price": "₹690.00",
+        "discounted_price": "₹345.00",
+        "recent_reviews": "Overwhelmingly Positive",
+        "recent_reviews_num": "3,608",
+        "developer": "Team Cherry"
+    },
+    {
+        "link": "https://store.steampowered.com/app/518790/theHunter_Call_of_the_Wild/?snr=1_7_7_7000_150_2",
+        "name": "theHunter: Call of the Wild™",
+        "date": "16 Feb, 2017",
+        "actual_price": "₹880.00",
+        "discounted_price": "₹264.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "1,213",
+        "developer": "Expansive Worlds"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1304930/The_Outlast_Trials/?snr=1_7_7_7000_150_2",
+        "name": "The Outlast Trials",
+        "date": "18 May, 2023",
+        "actual_price": "₹1,300.00",
+        "discounted_price": "₹1,040.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "1,191",
+        "developer": "Red Barrels"
+    },
+    {
+        "link": "https://store.steampowered.com/app/108600/Project_Zomboid/?snr=1_7_7_7000_150_1",
+        "name": "Project Zomboid",
+        "date": "8 Nov, 2013",
+        "actual_price": "₹880.00",
+        "discounted_price": "₹589.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "5,704",
+        "developer": "The Indie Stone"
+    },
+    {
+        "link": "https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/?snr=1_7_7_7000_150_1",
+        "name": "Euro Truck Simulator 2",
+        "date": "12 Oct, 2012",
+        "actual_price": "₹920.00",
+        "discounted_price": "₹230.00",
+        "recent_reviews": "Overwhelmingly Positive",
+        "recent_reviews_num": "8,897",
+        "developer": "SCS Software"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/?snr=1_7_7_7000_150_1",
+        "name": "Red Dead Redemption 2",
+        "date": "5 Dec, 2019",
+        "actual_price": "₹3,199.00",
+        "discounted_price": "₹1,279.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "9,902",
+        "developer": "Rockstar Games"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/?snr=1_7_7_7000_150_1",
+        "name": "NARAKA: BLADEPOINT",
+        "date": "11 Aug, 2021",
+        "actual_price": null,
+        "discounted_price": null,
+        "recent_reviews": "Mostly Positive",
+        "recent_reviews_num": "7,541",
+        "developer": "24 Entertainment"
+    },
+    {
+        "link": "https://store.steampowered.com/app/570/Dota_2/?snr=1_7_7_7000_150_1",
+        "name": "Dota 2",
+        "date": "9 Jul, 2013",
+        "actual_price": null,
+        "discounted_price": null,
+        "recent_reviews": "Mostly Positive",
+        "recent_reviews_num": "24,736",
+        "developer": "Valve"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1817190/Marvels_SpiderMan_Miles_Morales/?snr=1_7_7_7000_150_1",
+        "name": "Marvel’s Spider-Man: Miles Morales",
+        "date": "18 Nov, 2022",
+        "actual_price": "₹3,299.00",
+        "discounted_price": "₹1,979.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "1,027",
+        "developer": "Insomniac Games"
+    },
+    {
+        "link": "https://store.steampowered.com/app/578080/PUBG_BATTLEGROUNDS/?snr=1_7_7_7000_150_1",
+        "name": "PUBG: BATTLEGROUNDS",
+        "date": "21 Dec, 2017",
+        "actual_price": null,
+        "discounted_price": null,
+        "recent_reviews": "Mixed",
+        "recent_reviews_num": "15,078",
+        "developer": "KRAFTON, Inc."
+    },
+    {
+        "link": "https://store.steampowered.com/app/1172470/Apex_Legends/?snr=1_7_7_7000_150_1",
+        "name": "Apex Legends™",
+        "date": "4 Nov, 2020",
+        "actual_price": null,
+        "discounted_price": null,
+        "recent_reviews": "Mixed",
+        "recent_reviews_num": "15,096",
+        "developer": "Respawn Entertainment"
+    },
+    {
+        "link": "https://store.steampowered.com/app/2322560/Love_Is_All_Around/?snr=1_7_7_7000_150_1",
+        "name": "Love Is All Around",
+        "date": "17 Oct, 2023",
+        "actual_price": null,
+        "discounted_price": "₹480.00",
+        "recent_reviews": "Very Positive",
+        "recent_reviews_num": "13,366",
+        "developer": "intiny"
+    },
+    {
+        "link": "https://store.steampowered.com/app/1817070/Marvels_SpiderMan_Remastered/?snr=1_7_7_7000_150_1",
+        "name": "Marvel’s Spider-Man Remastered",
+        "date": "12 Aug, 2022",
+        "actual_price": "₹3,999.00",
+        "discounted_price": "₹2,399.00",
+        "recent_reviews": "Overwhelmingly Positive",
+        "recent_reviews_num": "1,824",
+        "developer": "Insomniac Games"
+    },
+    {
+        "link": "https://store.steampowered.com/app/2195250/EA_SPORTS_FC_24/?snr=1_7_7_7000_150_1",
+        "name": "EA SPORTS FC™ 24",
+        "date": "28 Sep, 2023",
+        "actual_price": null,
+        "discounted_price": "₹3,499.00",
+        "recent_reviews": "Mixed",
+        "recent_reviews_num": "11,403",
+        "developer": "EA Canada & EA Romania"
+    },
+    {
+        "link": "https://store.steampowered.com/app/949230/Cities_Skylines_II/?snr=1_7_7_7000_150_1",
+        "name": "Cities: Skylines II",
+        "date": "24 Oct, 2023",
+        "actual_price": null,
+        "discounted_price": "₹2,699.00",
+        "recent_reviews": "Mixed",
+        "recent_reviews_num": "18,313",
+        "developer": "Colossal Order Ltd."
+    },
+    {
+        "link": "https://store.steampowered.com/app/2399830/ARK_Survival_Ascended/?snr=1_7_7_7000_150_1",
+        "name": "ARK: Survival Ascended",
+        "date": "25 Oct, 2023",
+        "actual_price": "₹3,700.00",
+        "discounted_price": "₹3,330.00",
+        "recent_reviews": "Mixed",
+        "recent_reviews_num": "16,022",
+        "developer": "Studio Wildcard"
+    }
+]
